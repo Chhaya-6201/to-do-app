@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415348089857",
+    "project_id": "manav-rachna-to-do-app",
+    "storage_bucket": "manav-rachna-to-do-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415348089857:android:1ecd26ad553be0c0780c00",
+        "android_client_info": {
+          "package_name": "com.example.myandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415348089857-fbnerlsg12piduidedojtnvmrjf2ral6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6y5-FqwvzVJ9TE4UsUeg-7fHcYB0kvvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415348089857-fbnerlsg12piduidedojtnvmrjf2ral6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
